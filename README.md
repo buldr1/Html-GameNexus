@@ -1,1 +1,1 @@
-GAME NEXUS
+O Game Nexus foi desenvolvido como resultado direto do meu processo de aprendizado e prática em HTML e CSS. Durante esse período de treinamento, pude compreender na prática como estruturar páginas, aplicar estilos e criar interfaces funcionais e visualmente atraentes. O projeto serviu como um laboratório para consolidar meus conhecimentos, permitindo que eu experimentasse diferentes técnicas, aprimorasse minha lógica de organização e evoluísse no desenvolvimento front-end.
